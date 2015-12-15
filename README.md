@@ -14,3 +14,9 @@ Simple Angular.js example application
 - [Step 7 - Delete contact button]
 - [Step 8 - Add new contact]
 - [Step 9 - Edit contact page]
+
+- Installation and run the App
+  prerequisites : node, npm, bower should be installed on your machine.
+                  "Now run the “bower install” to get the app dependencies"
+				  
+				  You can contact me on my mobile (8197982962) in case if you have any queries on the same.
